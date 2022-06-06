@@ -7,8 +7,8 @@
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 4
 # TOTAL: 5
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN-SUFFIX,speed.cloudflare.com
-DOMAIN-SUFFIX,speed.dler.io
-DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,fast.com,Domestic
+DOMAIN-SUFFIX,ooklaserver.net,Domestic
+DOMAIN-SUFFIX,speed.cloudflare.com,Domestic
+DOMAIN-SUFFIX,speed.dler.io,Domestic
+DOMAIN-KEYWORD,speedtest,Domestic

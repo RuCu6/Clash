@@ -9,22 +9,22 @@
 # PROCESS-NAME: 1
 # DOMAIN: 1
 # TOTAL: 19
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,-tiktokcdn-com
-DOMAIN-KEYWORD,musical.ly
-DOMAIN-KEYWORD,tiktok
-DOMAIN-KEYWORD,tiktokcdn-
-DOMAIN-KEYWORD,tiktokv
-PROCESS-NAME,com.zhiliaoapp.musically
+DOMAIN,p16-tiktokcdn-com.akamaized.net,日本节点
+DOMAIN-SUFFIX,byteoversea.com,日本节点
+DOMAIN-SUFFIX,ibytedtos.com,日本节点
+DOMAIN-SUFFIX,ibyteimg.com,日本节点
+DOMAIN-SUFFIX,ipstatp.com,日本节点
+DOMAIN-SUFFIX,muscdn.com,日本节点
+DOMAIN-SUFFIX,musical.ly,日本节点
+DOMAIN-SUFFIX,sgpstatp.com,日本节点
+DOMAIN-SUFFIX,snssdk.com,日本节点
+DOMAIN-SUFFIX,tik-tokapi.com,日本节点
+DOMAIN-SUFFIX,tiktok.com,日本节点
+DOMAIN-SUFFIX,tiktokcdn.com,日本节点
+DOMAIN-SUFFIX,tiktokv.com,日本节点
+DOMAIN-KEYWORD,-tiktokcdn-com,日本节点
+DOMAIN-KEYWORD,musical.ly,日本节点
+DOMAIN-KEYWORD,tiktok,日本节点
+DOMAIN-KEYWORD,tiktokcdn-,日本节点
+DOMAIN-KEYWORD,tiktokv,日本节点
+PROCESS-NAME,com.zhiliaoapp.musically,日本节点
