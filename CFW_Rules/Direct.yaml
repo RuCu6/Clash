@@ -1,0 +1,34 @@
+# 引用地址 https://github.com/blackmatrix7/ios_rule_script/blob/release/rule/Clash/Direct/Direct.yaml
+
+# NAME: Direct
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-03-21 02:12:33
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# DOMAIN: 18
+# TOTAL: 24
+    - 'DOMAIN,ad.10010.com,DIRECT'
+    - 'DOMAIN,analytics.95516.com,DIRECT'
+    - 'DOMAIN,analytics.strava.com,DIRECT'
+    - 'DOMAIN,app.adjust.com,DIRECT'
+    - 'DOMAIN,app.appsflyer.com,DIRECT'
+    - 'DOMAIN,bdtj.tagtic.cn,DIRECT'
+    - 'DOMAIN,errlog.umeng.com,DIRECT'
+    - 'DOMAIN,fairplay.l.qq.com,DIRECT'
+    - 'DOMAIN,fonts.gstatic.com,DIRECT'
+    - 'DOMAIN,log.mmstat.com,DIRECT'
+    - 'DOMAIN,msg.umeng.com,DIRECT'
+    - 'DOMAIN,msg.umengcloud.com,DIRECT'
+    - 'DOMAIN,origin-a.akamaihd.net,DIRECT'
+    - 'DOMAIN,picanalysis.vivo.com.cn,DIRECT'
+    - 'DOMAIN,sycm.mmstat.com,DIRECT'
+    - 'DOMAIN,tracking.miui.com,DIRECT'
+    - 'DOMAIN,vi.l.qq.com,DIRECT'
+    - 'DOMAIN,xivanalysis.com,DIRECT'
+    - 'DOMAIN-SUFFIX,dizhensubao.getui.com,DIRECT'
+    - 'DOMAIN-SUFFIX,f.video.weibocdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,fus.cdn.krcom.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,ol.epicgames.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,DIRECT'
+    - 'DOMAIN-KEYWORD,wb_ad,DIRECT'
